@@ -1,0 +1,45 @@
+body {
+  background-color: #F0FFFF;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+}
+
+.titulo{
+  text-align: center;
+  font-size: 4em;
+  margin: 20px;
+}
+
+.form{
+  text-align: center;
+}
+
+.formulario {
+  margin: 100px auto;
+  align-items: center;
+  text-align: center;
+  width: 300px;
+  height: auto;
+  display: grid;
+  justify-content: center;
+  border: 2px solid #000;
+  border-radius: 4px;
+  background-color:#5F9EA0;
+}
+
+form label {
+  padding: 10px 0 5px 0;
+  font-weight: bold;
+}
+.botao{
+  background-color: #006400;
+  color: black;
+  height: 50px;
+  border: none;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+.botao:hover{
+  font-size: 1.2em;
+}
